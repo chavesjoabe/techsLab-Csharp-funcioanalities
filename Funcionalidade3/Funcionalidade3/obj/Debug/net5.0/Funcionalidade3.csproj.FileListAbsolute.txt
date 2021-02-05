@@ -1,0 +1,15 @@
+/Users/joabechaves/RiderProjects/Funcionalidade3/Funcionalidade3/bin/Debug/net5.0/Funcionalidade3.deps.json
+/Users/joabechaves/RiderProjects/Funcionalidade3/Funcionalidade3/bin/Debug/net5.0/Funcionalidade3.runtimeconfig.json
+/Users/joabechaves/RiderProjects/Funcionalidade3/Funcionalidade3/bin/Debug/net5.0/Funcionalidade3.runtimeconfig.dev.json
+/Users/joabechaves/RiderProjects/Funcionalidade3/Funcionalidade3/bin/Debug/net5.0/Funcionalidade3.dll
+/Users/joabechaves/RiderProjects/Funcionalidade3/Funcionalidade3/bin/Debug/net5.0/ref/Funcionalidade3.dll
+/Users/joabechaves/RiderProjects/Funcionalidade3/Funcionalidade3/bin/Debug/net5.0/Funcionalidade3.pdb
+/Users/joabechaves/RiderProjects/Funcionalidade3/Funcionalidade3/obj/Debug/net5.0/Funcionalidade3.csprojAssemblyReference.cache
+/Users/joabechaves/RiderProjects/Funcionalidade3/Funcionalidade3/obj/Debug/net5.0/Funcionalidade3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/joabechaves/RiderProjects/Funcionalidade3/Funcionalidade3/obj/Debug/net5.0/Funcionalidade3.AssemblyInfoInputs.cache
+/Users/joabechaves/RiderProjects/Funcionalidade3/Funcionalidade3/obj/Debug/net5.0/Funcionalidade3.AssemblyInfo.cs
+/Users/joabechaves/RiderProjects/Funcionalidade3/Funcionalidade3/obj/Debug/net5.0/Funcionalidade3.csproj.CoreCompileInputs.cache
+/Users/joabechaves/RiderProjects/Funcionalidade3/Funcionalidade3/obj/Debug/net5.0/Funcionalidade3.dll
+/Users/joabechaves/RiderProjects/Funcionalidade3/Funcionalidade3/obj/Debug/net5.0/ref/Funcionalidade3.dll
+/Users/joabechaves/RiderProjects/Funcionalidade3/Funcionalidade3/obj/Debug/net5.0/Funcionalidade3.pdb
+/Users/joabechaves/RiderProjects/Funcionalidade3/Funcionalidade3/obj/Debug/net5.0/Funcionalidade3.genruntimeconfig.cache
